@@ -1,2 +1,1 @@
-My first readme
-Edited
+edited README.md file
